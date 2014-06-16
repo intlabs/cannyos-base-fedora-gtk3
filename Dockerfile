@@ -36,6 +36,8 @@ WORKDIR /
 #Install gtk3
 RUN yum install -y gtk3 
 
+#Install gtk3 theme
+RUN yum install -y gnome-themes-standard
 
 #Install gedit
 RUN yum install -y gedit
