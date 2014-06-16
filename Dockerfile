@@ -19,7 +19,7 @@
 #
 
 # Pull base image.
-FROM intlabs/cannyos-base-fedora-fuse
+FROM intlabs/dockerfile-cannyos-fedora-fuse
 
 # Set environment variables.
 ENV HOME /root
