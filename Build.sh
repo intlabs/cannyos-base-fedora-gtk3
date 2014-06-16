@@ -31,7 +31,7 @@ curl https://raw.githubusercontent.com/intlabs/cannyos-base-fedora-gtk3/master/C
 #     *                                                   *
 #     *****************************************************
 echo "*                                                   *"
-echo "*         Ubuntu docker container builder           *"
+echo "*     Fedora docker containter with gtk3 builder    *"
 echo "*                                                   *"
 echo "*****************************************************"
 echo ""
