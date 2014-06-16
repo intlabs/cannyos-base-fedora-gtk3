@@ -61,4 +61,5 @@ sudo docker run -i -t --rm \
  --volume "/CannyOS/build/cannyos-base-fedora-gtk3":"/CannyOS/Host" \
  --name "cannyos-base-fedora-gtk3" \
  --user "root" \
+ -p 80:80 \
  intlabs/cannyos-base-fedora-gtk3 
